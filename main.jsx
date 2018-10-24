@@ -11,9 +11,11 @@ class Selector extends Component {
     }
 
     render() {
-        
         return (
-            <div className="selectorBox"></div>
+            <div className="selectorBox">
+                SelectorBox
+                <div className="selectorCircle"></div>
+            </div>
         )
     }
 }

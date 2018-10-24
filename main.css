@@ -1,0 +1,19 @@
+
+
+.selectorBox {
+    min-width: 200px;
+    min-height: 200px;
+    /* CiscoGray-ish */
+    background-color: #E8EBF1;
+    padding: 10px;
+    /* Create a border */
+    border: groove 2px #000;
+}
+
+.selectorCircle { 
+    width:150px; 
+    height:150px;
+    border:12px solid rgb(40, 151, 255); 
+    border-radius:100%;
+
+}
