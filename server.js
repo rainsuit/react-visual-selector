@@ -4,7 +4,8 @@ const log = console.log;
 const path = require('path');
 const express = require('express');
 const app     = express();
-const server  = app.listen(1337, () => log("Listening on 1337"));
+const PORT    = 1234;
+const server  = app.listen(PORT, () => log("Listening on", PORT));
 
 
 app.use(express.static(__dirname));
