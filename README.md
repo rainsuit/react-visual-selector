@@ -1,7 +1,7 @@
 # react-visual-selector
 ReactJS component to visually select an angle
 
-## Circle Selector Component
+## Circle Slider/Selector Component
 
 ### Properties (props)
 

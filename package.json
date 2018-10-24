@@ -1,0 +1,23 @@
+{
+  "name": "react-visual-selector",
+  "version": "1.0.0",
+  "description": "ReactJS component to visually select an angle",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rainsuit/react-visual-selector.git"
+  },
+  "author": "ErikK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rainsuit/react-visual-selector/issues"
+  },
+  "homepage": "https://github.com/rainsuit/react-visual-selector#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  }
+}
